@@ -3,7 +3,7 @@ This repository contains the files and code I have used to make this project.
 
 A facial recognition attendance system uses facial recognition technology to identify and verify a person using the person's facial features and automatically mark attendance in an excel sheet.
 
-Steps:
+Steps:-
 Step 1: Finding all the Faces
 The first step is face detection.
 We’re going to use a method invented in 2005 called Histogram of Oriented Gradients (HOG).
