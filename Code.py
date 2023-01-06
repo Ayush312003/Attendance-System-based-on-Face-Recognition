@@ -30,7 +30,6 @@ print(namesWithoutExt)
 
 # In the above array traversal we have removed the Image file extension
 
-
 def attendance(name):
     with open('Attendance_File.csv','r+') as file:
         # using r+ as an argument for file modification to give Read and Write permission both
